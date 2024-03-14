@@ -15,7 +15,7 @@
         android:layout_marginTop="100dp"
         android:gravity="center"
         android:text="Conectar"
-        android:textSize="26dp" />
+        android:textSize="24sp" />
 
     <EditText
         android:id="@+id/inputCorreo"
@@ -50,7 +50,7 @@
         android:text="INICIAR SESIÓN"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/black"
-        android:textSize="24dp"
+        android:textSize="24sp"
         android:visibility="visible"
         app:cornerRadius="1dp" />
 
