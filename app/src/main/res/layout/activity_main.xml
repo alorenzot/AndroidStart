@@ -63,7 +63,6 @@
         android:foregroundGravity="bottom"
         android:gravity="center"
         android:text="¿Has olvidado tu contraseña?"
-        android:textColor="@color/blue"
         android:textSize="20dp" />
 
 </LinearLayout>
